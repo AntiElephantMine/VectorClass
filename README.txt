@@ -1,0 +1,1 @@
+A simple class template based on mathematical vectors. 

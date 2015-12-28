@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.o
+bin/Debug/VectorClass.exe
+*.cbp
+VectorClass.layout
+Source Files/test.cpp
+Source Files/VectorInher.cpp
+Source Files/VectorInher.h
